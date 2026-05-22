@@ -1,8 +1,8 @@
 # P3D Project
 
-We're building **Persona 3 Dual**, a Nintendo DS demake of *Persona 3* developed in C++ using devkitPro.
+We're building **Persona 3 Dual**, a Nintendo DS demake of Persona 3.
 
-The project is about constructing a game engine from scratch on real DS hardware constraints and making long-running online joke about a DS version of Persona 3 a reality
+The project is about constructing a game engine from scratch on real DS hardware constraints, and making the long-running online joke about a DS version of Persona 3 a reality!
 
 *This is a fan project and is not affiliated with or endorsed by Atlus or Sega.*
 
