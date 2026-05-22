@@ -1,12 +1,21 @@
-## Hi there 👋
+# P3D Project
 
-<!--
+We're building **Persona 3 Dual**, a Nintendo DS demake of *Persona 3* developed in C++ using devkitPro.
 
-**Here are some ideas to get you started:**
+The project is about constructing a game engine from scratch on real DS hardware constraints and making long-running online joke about a DS version of Persona 3 a reality
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*This is a fan project and is not affiliated with or endorsed by Atlus or Sega.*
+
+---
+
+## Repositories
+
+**[persona-3-dual](https://github.com/p3d-project/persona-3-dual)**
+
+---
+
+## 💬 Get Involved
+
+We welcome contributors of any skill level - code, art, music, testing, or just feedback.
+
+Join the conversation on **[Discord](https://discord.gg/Xtmu76PveV)**!
