@@ -18,4 +18,4 @@ The project is about constructing a game engine from scratch on real DS hardware
 
 We welcome contributors of any skill level - code, art, music, testing, or just feedback.
 
-Join the conversation on **[Discord](https://discord.gg/Xtmu76PveV)**!
+Join the conversation on **[Discord](https://discord.gg/CQnkc5gS6a)**!
