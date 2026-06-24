@@ -4,7 +4,7 @@ This organizaion is where the codebase for all P3D-related projects will live!
 ## [Join the Discord!](https://discord.gg/CQnkc5gS6a)
 On Discord, we have general discussions with the community about the game we're creating *together*.
 - We recommend checking out the ```#roles``` channel and assigning yourself a role under *"Consoles"* on the **DS consoles you have access to**.    
-- If you're interested in **helping out**, whether as a programmer, 3D modeler, tester, etc., we recommend checking out the ```#roles``` channel and assigning yourself a role under *"Experiences"* or *"Testing"*. 
+- If you're interested in **helping out**, whether as a programmer, 3D modeler, tester, etc., we recommend checking out the ```#roles``` channel and assigning yourself a role.
 
 After you've assigned yourself a role, depending on the role, you will see *new channels appear*!
 
@@ -27,12 +27,11 @@ See the **[README](https://github.com/p3d-project/persona-3-dual/blob/main/docs/
 ## What's the dev setup?
 See the **[README](https://github.com/p3d-project/persona-3-dual/tree/main?tab=readme-ov-file#developer-setup)**, **[Code of Conduct](https://github.com/p3d-project/persona-3-dual/tree/main?tab=coc-ov-file)**, and **[Contributing Guidlines](https://github.com/p3d-project/persona-3-dual/tree/main?tab=contributing-ov-file)** for the latest information.
 ## We're recruiting!
-The team's currently looking for the people with the following skill(s):
-- Graphic designer - **URGENT!**
-- Modeling - **URGENT!**
-- Game ripping/extraction - **URGENT!**
-- Developers (programmers) - **URGENT!**
-- Sprite work
+The team's currently looking for the following roles:
+- Game Dev (C/C++)
+- Web Dev (Astro, React, Tailwind)
+- Art (UI, Website, Social Media)
+- Video/Music (Cutscenes & Intros, Promo Videos, Social Media)
 - Tester
 
 **Anything related to 3D modeling, game ripping/extraction, and graphic design is urgently needed to help build the actual levels/world!**
